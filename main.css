@@ -1,1 +1,13 @@
-
+h1{
+font-family: Arial, sans-serif;
+font-weight: 700;
+margin: .5em 1em;
+padding: 0 4em;  
+}
+#two{
+font-size: 300%;
+}
+#small{
+height: auto;
+width: 200px;
+}
